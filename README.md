@@ -21,7 +21,7 @@ The objective is to cluster instances from the literature and identify those sim
 Vehicle routing problem (VRP) is a combinatorial and integer programming which ask “What is the optimal set of routes for a fleet of vehicles in order to deliver to a given set of customers?” It generalizes the well-known traveling salesman problem (TSP). The capacitated vehicle routing problem (CVRP) is a VRP in which vehicles with limited carrying capacity need to pick up or deliver items to various locations. The items have a quantity, such as weight or volume, and each vehicle has a maximum capacity that they can carry. The problem is to pick up or deliver the items with the least cost, while never exceeding the capacity of the vehicles.
 
 <h1 align="center">
-  <img src="https://github.com/imgs/cvrp">
+  <img src="https://github.com/CVRP_With_AI/imgs/cvrp">
 </h1>
 
 ---    
