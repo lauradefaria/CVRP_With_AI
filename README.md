@@ -58,5 +58,5 @@ Just open the directory cloned path in terminal and run
 
 |<a href="https://www.linkedin.com/in/lauradefaria/" target="_blank">**Laura de Faria Maranhão Ayres**</a> | <a href="https://linkedin.com/in/eduardovegas" target="_blank">**Eduardo Luiz Araujo dos Santos**</a>      |
 |:-----------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------:|
-|                   <img src="https://github.com/lauradefaria/CVRP_With_AI/blob/main/imgs/laura.png" width="200px"> </img>                            |               <img src="https://github.com/lauradefaria/CVRP_With_AI/blob/main/imgs/eduardo.png" width="200px"> </img>                          
+|                   <img src="https://github.com/lauradefaria/CVRP_With_AI/blob/main/imgs/laura.png" width="200px"> </img>                            |               <img src="https://github.com/lauradefaria/CVRP_With_AI/blob/main/imgs/eduardo.jpg" width="200px"> </img>                          
 |               <a href="http://github.com/lauradefaria" target="_blank">`github.com/lauradefaria`</a>      |  <a href="https://github.com/eduardovegas" target="_blank">`github.com/eduardovegas`</a>  |
